@@ -1,0 +1,5 @@
+VisitID	PatientID	LabTestCode	LabTestDescription	ResultValue	Units	ReferenceRange
+V01	P001	CBC	Complete Blood Count	Normal		
+V03	P003	TSH	Thyroid Stimulating Hormone	4.2	mIU/L	0.4–4.5
+V04	P004	BMP	Basic Metabolic Panel	Normal		
+V04	P004	A1C	Hemoglobin A1C	6.1	%	<5.7

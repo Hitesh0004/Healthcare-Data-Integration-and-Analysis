@@ -1,0 +1,7 @@
+VisitID,PatientID,ProcedureCode,ProcedureDescription,Charge,Payer
+V01,P001,99213,Office Visit,150,Aetna
+V01,P001,71020,Chest X-Ray,200,Aetna
+V02,P002,97110,Physical Therapy,90,BlueCross
+V03,P003,93000,ECG,120,United
+V04,P004,99214,Comprehensive Visit,180,Aetna
+V04,P004,80048,Basic Metabolic Panel,75,Medicare
